@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import { RiEyeLine } from 'react-icons/ri'
 import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa'
 import { HiLocationMarker, HiPhone, HiMail, HiClock } from 'react-icons/hi'
 import './Footer.scss'
@@ -23,9 +22,9 @@ export default function Footer() {
               Bringing clarity to your world with compassionate, expert eye care. Your vision is our mission.
             </p>
             <div className="footer__socials">
-              <a href="#" className="footer__social"><FaFacebookF /></a>
-              <a href="#" className="footer__social"><FaInstagram /></a>
-              <a href="#" className="footer__social"><FaTwitter /></a>
+              <button className="footer__social"><FaFacebookF /></button>
+              <button className="footer__social"><FaInstagram /></button>
+              <button className="footer__social"><FaTwitter /></button>
             </div>
           </div>
 
