@@ -1,0 +1,38 @@
+// Colors
+$primary: #2d6a4f;
+$primary-dark: #1b4332;
+$primary-light: #52b788;
+$mint: #b7e4c7;
+$mint-soft: #d8f3dc;
+$teal: #1e4d3a;
+$deep-green: #081c15;
+$white: #ffffff;
+$off-white: #f4f9f6;
+$text-dark: #0f1f17;
+$text-body: #2d4a3e;
+$text-muted: #5a7a6a;
+$border: #cde0d5;
+$border-green: rgba(45, 106, 79, 0.25);
+
+// Typography
+$font-display: 'Playfair Display', serif;
+$font-body: 'DM Sans', sans-serif;
+
+// Spacing
+$section-padding: 100px 0;
+$container-max: 1200px;
+
+// Shadows
+$shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+$shadow-md: 0 8px 30px rgba(0, 0, 0, 0.1);
+$shadow-green: 0 8px 30px rgba(16, 185, 129, 0.2);
+
+// Border radius
+$radius-sm: 8px;
+$radius-md: 16px;
+$radius-lg: 24px;
+$radius-xl: 40px;
+
+// Transitions
+$transition: all 0.3s ease;
+$transition-slow: all 0.6s ease;
